@@ -1,2 +1,1 @@
-# leetcode_algorithm
-Algorithm Problems from Leetcode
+# LeetCode Algorithm Questions from https://leetcode.com/problems/
